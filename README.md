@@ -9,4 +9,5 @@ Figure 1: This image is created using Synthetic data from NASA JPL Horizons Syst
 
 
 Figure 2: Similarily, asteroid 4953, as seen in Figure 2, was also created using Synthetic data from _Horizons_ over two days from October 30-31, 2024 with one hour sepertaions, totalling 48 observations. The Highlighed pink region is the time-frame when real-time observations were taken of the asteroid on October 31, 2024 as seen in Figure 7. The dataset downloaded from _Horizons_ and the code used to make this plot is attached in folder 'Figure 2'. 
+
 <img width="505" height="652" alt="twotwo" src="https://github.com/user-attachments/assets/1241cff0-40a3-4e61-abc5-3be955d82d67"/>
