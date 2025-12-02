@@ -1,7 +1,0 @@
-Figure 1: 
-<img width="1434" height="652" alt="one-2" src="https://github.com/user-attachments/assets/5fed49c4-26a3-4184-8bd3-9791588cf1b9" />
-
-This image is created using Synthetic data from NASA JPL Horizons System (hereafter _Horizons_) (https://ssd.jpl.nasa.gov/horizons/app.html#/). We queried the astrometric position of asteroid 2024 ON on September 5-6, 2024 with seperations of 1 hour, totalling 48 observations. In the top image, is the raw data showing the asteroids motion and the bottom image shows the subtraction of the asteroids motion from the Earth's rotation. The 'light pink highlighted region is the time-period of the real-time observations as seem from the PROMPT telescope as seen in Figure 6. The dataset downloaded from _Horizons_ and the code used to make this plot is attached in folder 'Figure 1'. 
-
-
-
