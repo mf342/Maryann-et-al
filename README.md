@@ -18,14 +18,14 @@ Similarily, asteroid 4953, as seen in Figure 2, was also created using Synthetic
 Figure 3: 
 In this figure, we used 20 asteroids downloaded from _Horizons_. Timeframe: September 5-6, 2024 from 11:45 am - 3:30 am UTC, with added 20 mas noise. Since the observations are over a short arc, column 1 shows better distance measurements as compared to column 2. 
 
-<img width="714" height="543" alt="Screenshot 2025-12-04 at 6 20 28 PM" src="https://github.com/user-attachments/assets/3f1e1283-0d96-43fa-8047-f8a47cbf4b9f" />
-
+<img width="400" height="500" alt="Screenshot 2025-12-04 at 6 20 50 PM" src="https://github.com/user-attachments/assets/5457efd9-b0cf-40bd-aaa7-785f89c148aa" />
 
 Figure 4: 
 
 In this figure, we used the same 20 asteroids as seen in figure 3, but increased the time span of the observations from a single night to multiple nights, downloaded from _Horizons_. Timeframe: September 5-9, 2024, three observations per night, totalling 15 observations, from 8 pm - 5 am UTC, with added 20 mas noise. Since the observations are over a longer arc, column 2 shows better distance measurements as compared to column 1. 
 
-<img width="756" height="571" alt="Screenshot 2025-12-04 at 6 20 50 PM" src="https://github.com/user-attachments/assets/5457efd9-b0cf-40bd-aaa7-785f89c148aa" />
+
+<img width="400" height="500" alt="Screenshot 2025-12-04 at 6 20 28 PM" src="https://github.com/user-attachments/assets/3f1e1283-0d96-43fa-8047-f8a47cbf4b9f" />
 
 
 Figure 5: 
