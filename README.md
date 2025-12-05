@@ -27,17 +27,17 @@ Figure 5, Table 1: Here, in this image, we show the comparism of the real-time o
 <img width="400" height="300" alt="four-2" src="https://github.com/user-attachments/assets/fcb66606-81e7-4546-9411-06326941accb" />
 
 
-Figure 6, Table 2: 
+Figure 6, Table 2: In this figure, we show the real-time observation of asteroid 2024 ON, using the PROMPT telescope in Chile. The asteroid was observed for ~4 hours within a single night. Using Eq. 1 in the paper, we received an error of 0.62% after comparism with _Horizons_ data. The dataset downloaded from _Horizons_ and the real-time observations used to make this plot is attached in folder 'Figure 6, Table 2'. 
 
-<img width="400" height="300" alt="five" src="https://github.com/user-attachments/assets/58ee012f-0e2c-4849-b7a9-6520e48161bd" />
-
-
-Figure 7, Table 3: 
-
-<img width="400" height="300" alt="six-4" src="https://github.com/user-attachments/assets/297b1eba-387f-4813-921f-34af527db87b" />
+<img width="400" height="250" alt="five" src="https://github.com/user-attachments/assets/58ee012f-0e2c-4849-b7a9-6520e48161bd" />
 
 
-Figure 8:
+Figure 7, Table 3: In this figure, we show the real-time observation of asteroid 2024 ON, using the PROMPT telescope in Chile. The asteroid was observed for ~7 hours within a single night. Using Eq. 1 in the paper, we received an error of 2.61% after comparism with _Horizons_ data. The dataset downloaded from _Horizons_ and the real-time observations used to make this plot is attached in folder 'Figure 7, Table 3'. 
+
+<img width="400" height="250" alt="six-4" src="https://github.com/user-attachments/assets/297b1eba-387f-4813-921f-34af527db87b" />
+
+
+Figure 8: In this table 
 
 <img width="400" height="300" alt="Figure 8 (row 2)-2" src="https://github.com/user-attachments/assets/c2af7e57-dbef-480d-9f72-c54c854a2598" />
 
